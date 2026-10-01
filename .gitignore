@@ -109,4 +109,5 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
 # Unused assets
-/[Aa]ssets/[Ii]ndie[Mm]arc/[Pp]latformer[Dd]emo/
+/[Aa]ssets/[Ii]ndie[Mm]arc/[Pp]latformer[Dd]emo
+/[Aa]ssets/[Ww]elcome/
